@@ -28,4 +28,6 @@ dependencies = [
     "numba",
     "pre-commit",
     "gurobipy",
+    "scipy",
+    "tsam",
 ]
