@@ -1,14 +1,14 @@
 .ipynb-checkpoints
-dsesm/data
+phl/data
 *.geojson
 *.nc
 *.tiff
 *.tif
 *.html
 *.png
-dsesm/tmp/
-dsesm/_build/
-dsesm/*.csv
+phl/tmp/
+phl/_build/
+phl/*.csv
 *cleared.ipynb
 data
 

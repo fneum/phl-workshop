@@ -4,7 +4,7 @@
 
 channels:
 - conda-forge
-name: esm-ws-25-26
+name: phl-workshop
 dependencies:
 - _openmp_mutex=4.5=7_kmp_llvm
 - _python_abi3_support=1.0=hd8ed1ab_2

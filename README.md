@@ -10,7 +10,7 @@ If you'd like to develop and/or build the Data Science for Energy System Modelli
 
 1. Clone this repository
 2. Run `uv sync`
-3. (Optional) Edit the books source files located in the `dsesm/` directory
+3. (Optional) Edit the books source files located in the `phl/` directory
 4. Run `uv run jupyter book start` or `jupyter-book build --html --execute` to build the book
 
 A fully-rendered HTML version of the book will be built in `_build/html/`.
@@ -23,7 +23,7 @@ For GitHub and GitLab deployment specifically, the [cookiecutter-jupyter-book](h
 
 ## Contributors
 
-We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/fneum/data-science-for-esm/graphs/contributors).
+We welcome and recognize all contributions. You can see a list of current contributors in the [contributors tab](https://github.com/fneum/phl-workshop/graphs/contributors).
 
 ## Credits
 

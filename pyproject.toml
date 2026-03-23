@@ -1,22 +1,12 @@
 [project]
-name = "data-science-for-esm"
-version = "2025.10.0"
+name = "phl-workshop"
+version = "2026.03.0"
 requires-python = ">=3.13,<3.14"
 dependencies = [
     "numpy",
-    "scipy",
     "pandas>=2,<3",
-    "geopandas<=1.1.1",
-    "xarray",
-    "networkx",
-    "pyyaml",
-    "pyomo>=6.5",
     "netcdf4",
-    "pypsa>=1",
-    "atlite>=0.4.1",
-    "pysheds",
-    "powerplantmatching>=0.7.1",
-    "rasterio",
+    "pypsa[excel]>=1.1",
     "ipython",
     "jupyterlab",
     "tabula-py",
@@ -25,23 +15,17 @@ dependencies = [
     "tables",
     "pyxlsb",
     "openpyxl",
-    "shapely>2",
     "pyepsg",
     "cartopy>=0.22",
-    "country-converter",
     "matplotlib>=3.9",
     "plotly<6",
-    "hvplot",
-    "holoviews[recommended]",
-    "geoviews>=1.10",
-    "graphviz",
     "jupyter-book>=2",
     "ghp-import",
     "highspy>=1.5.3",
     "folium",
     "mapclassify",
-    "numexpr>2.8.5",
     "pyarrow",
     "numba",
     "pre-commit",
+    "gurobipy",
 ]
