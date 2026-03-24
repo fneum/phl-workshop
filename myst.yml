@@ -20,7 +20,7 @@ project:
   - file: phl/03-pypsa-intro.ipynb
   - file: phl/04-pypsa-uc.ipynb
   - file: phl/05-pypsa-planning.ipynb
-  # - file: phl/06-pypsa-philippines.ipynb
+  - file: phl/06-pypsa-philippines.ipynb
   # - file: phl/07-pypsa-scenarios.ipynb
   # - file: phl/08-pypsa-stochastic.ipynb
 site:
